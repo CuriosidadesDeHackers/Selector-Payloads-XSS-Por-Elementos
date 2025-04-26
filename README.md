@@ -45,3 +45,11 @@ Generar **PoC (Proof of Concept)** de **XSS** y **CSRF** de manera rápida y ord
 
 1. Acede a la web : [https://poc.curiosidadesdehackers.com/xss.html](https://poc.curiosidadesdehackers.com/xss.html)
 
+## 📸 Demo
+
+![1](https://github.com/user-attachments/assets/42965929-1429-47ef-bf7d-1b79a1990efa)
+![2](https://github.com/user-attachments/assets/78127f06-3aac-4c92-a94c-002fc2cd7f9f)
+
+
+
+
