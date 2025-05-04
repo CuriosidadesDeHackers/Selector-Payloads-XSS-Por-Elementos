@@ -43,7 +43,7 @@ Generar **PoC (Proof of Concept)** de **XSS** y **CSRF** de manera rápida y ord
 
 ## 🚀 Cómo usar
 
-1. Acede a la web : [https://poc.curiosidadesdehackers.com/xss.html](https://poc.curiosidadesdehackers.com/xss.html)
+1. Acede a la web : [https://csrf.curiosidadesdehackers.com/xss.html](https://csrf.curiosidadesdehackers.com/xss.html)
 
 ## 📸 Demo
 
